@@ -1,4 +1,2 @@
-# rndproj-tom2t3ro
-
-Random config project for playground.
-
+# rndproj-tom2t3ro\n\nMinimal HTTP API for status checks.\n
+New-FileDef

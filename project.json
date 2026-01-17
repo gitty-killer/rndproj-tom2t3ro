@@ -1,6 +1,6 @@
 {
-  ""name"": ""rndproj-tom2t3ro"",
-  ""goal"": ""CLI validator for incident triage"",
-  ""language"": ""python"",
-  ""template"": ""python-etl""
+    "name":  "rndproj-tom2t3ro",
+    "goal":  "CLI validator for incident triage",
+    "language":  "python",
+    "template":  "python-etl"
 }
